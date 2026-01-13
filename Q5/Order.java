@@ -20,19 +20,19 @@ public class Order{
        
     }
    
-    public void setorderid(int newid){
-        this.orderid = newid;
+    public void setOrderid(int NewId){
+        this.orderid = NewId;
        
        
     }
    
-    public int getorderid(){
+    public int getOrderid(){
         return this.orderid;
        
     }
    
-    public void setcustomername(String newname){
-        this.customername = newname;
+    public void setcustomername(String NewName){
+        this.customername = NewName;
        
        
     }
@@ -42,8 +42,8 @@ public class Order{
        
     }
    
-    public void setamount(double newamount){
-        this.amount = newamount;
+    public void setamount(double NewAmount){
+        this.amount = NewAmount;
        
        
     }
